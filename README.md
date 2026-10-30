@@ -431,8 +431,6 @@ The following resources can help extend the knowledge covered in this project:
 
 Aspiring Network Engineer | Cybersecurity Enthusiast | GRC Learner
 
-Location: Wellingborough, United Kingdom
-
 Areas of interest:
 - Linux Administration
 - Computer Networking
