@@ -444,15 +444,6 @@ GitHub: https://github.com/GBDoc
 
 LinkedIn: www.linkedin.com/in/dorcasgbenro
 
-## 📄 License
-
-[Specify your preferred open-source license here.]
-
-If no license has been selected, the repository remains without an explicit open-source license.
-
----
-
-**Project:** 10alytics Linux Fundamentals Assignment  
 **Operating System:** Kali Linux  
 **Year:** 2026  
 **Author:** Dorcas Gbenro
